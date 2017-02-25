@@ -1,2 +1,2 @@
 # KiCad
-Components and Footprints
+Components and footprints created by Arash Toudeshki

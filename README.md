@@ -1,0 +1,2 @@
+# KiCad
+Components and Footprints

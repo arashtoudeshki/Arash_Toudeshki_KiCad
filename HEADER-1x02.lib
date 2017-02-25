@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# HEADER-1x02
+#
+DEF HEADER-1x02 J 0 40 Y N 1 F N
+F0 "J" -50 150 60 H V L BNB
+F1 "HEADER-1x02" 150 0 40 V V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+F4 "-" -50 250 40 H I L BNN "Part"
+F5 "Connector" -50 350 40 H I L BNN "Family"
+DRAW
+S -50 -45 10 -55 0 1 0 F
+S -50 55 10 45 0 1 0 F
+S -50 100 100 -100 0 1 0 f
+X P1 1 -150 50 100 R 45 50 1 1 P
+X P2 2 -150 -50 100 R 45 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

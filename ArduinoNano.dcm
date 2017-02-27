@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ArduinoNano
-D Arduino Nano board (V3.0)
-K ATMega328p Arduino Nano
-$ENDCMP
-#
-#End Doc Library

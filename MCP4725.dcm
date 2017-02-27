@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MCP4725
-D 12-Bit Digital-to-Analog Converter with EEPROM Memory
-K DAC
-$ENDCMP
-#
-#End Doc Library
